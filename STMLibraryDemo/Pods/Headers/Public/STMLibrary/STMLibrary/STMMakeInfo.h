@@ -1,0 +1,1 @@
+../../../../../../Pod/Library/STMLibrary.framework/Headers/STMMakeInfo.h

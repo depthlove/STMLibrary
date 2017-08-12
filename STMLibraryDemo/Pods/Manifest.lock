@@ -1,0 +1,16 @@
+PODS:
+  - STMLibrary (1.0.0)
+
+DEPENDENCIES:
+  - STMLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  STMLibrary:
+    :path: ../
+
+SPEC CHECKSUMS:
+  STMLibrary: acf6162e63bdb611d6aba3323daaf6ac9209e5a5
+
+PODFILE CHECKSUM: 31265b81bf419737160e05b186f8bb452282e114
+
+COCOAPODS: 1.2.1

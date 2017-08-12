@@ -1,0 +1,6 @@
+framework module STMLibrary {
+  umbrella header "STMLibrary.h"
+
+  export *
+  module * { export * }
+}
